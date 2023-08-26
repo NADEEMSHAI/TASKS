@@ -39,3 +39,7 @@
   forever list
   forever --help
   ```
+* As you can see now we had run the both code of ICS & MoneyBridge parallel in the single server with different ports with forever.
+ 
+  ![pre](Images/f8.png)
+  ![pre](Images/f9.png)
