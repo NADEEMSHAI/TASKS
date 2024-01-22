@@ -1,0 +1,18 @@
+INTERGRATION Jenkins With GitLab
+---------------------------------------------------------
+
+1.First we need to create a user called jenkins and set the password to the user.
+![pre](images/jenkins-gitlab-1.png)
+![pre](images/jenkins-gitlab-2.png)
+![pre](images/jenkins-gitlab-3.png)
+![pre](images/jenkins-gitlab-4.png)
+![pre](images/jenkins-gitlab-5.png)
+![pre](images/jenkins-gitlab-6.png)
+![pre](images/jenkins-gitlab-7.png)
+
+
+Deployment of .net Application Using Jenkins Docker
+---------------------------------------------------------------
+Hello friends, we will be deploying a .Net-based application. This is an everyday use case scenario used by several organizations. We will be using Jenkins as a CICD tool and deploying our application on a Docker Container and Kubernetes cluster. Hope this detailed blog is useful.
+![referhere]https://blog.devops.dev/devsecops-project-with-jenkins-ci-cd-dotnet-webapp-dce678bac835
+
